@@ -155,7 +155,7 @@ habit-tracker-bot/
 
 ## 👨‍💻 Автор
 
-**[Твоё Имя]**
+**[Владислав]**
 
 - GitHub: [@zefnn](https://github.com/zefnn)
 - Telegram: [@vvlaarnb]
